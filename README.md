@@ -1,2 +1,4 @@
 # holbertonschool-zero_day
-I love girl: and dancer:.
+
+My firt repository in GitHub
+I love: Coffe:
